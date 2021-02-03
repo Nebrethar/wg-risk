@@ -1,20 +1,35 @@
-# wg-risk
-# CHAOSS Risk Metrics Group (VMG)
+# CHAOSS Risk Metrics Working Group (RISK WG)
+
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 
 ## Read our Launch Plan
 
-VMG is a new group, focused on metrics for Economic Value in open source.
+Risk is a new group, focused on metrics for issues pertaining to Risk in open source.
 
 Economic value is expressed in different ways for different types of
 stakeholders.  We will be exploring this space in the coming months.
 
 See our [draft focus areas][1] for more info.
 
+1. [Security](./focus-areas/security.md)
+2. [Code Quality](./focus-areas/code-quality.md)
+3. [Licensing](./focus-areas/licensing.md)
+4. [Business Risk](./focus-areas/business-risk.md)
+5. [Transparency](./focus-areas/transparency.md)
+
 [1]: https://docs.google.com/document/d/1HMfLlWMR8t8c3B0zm3KiIeI-GR7E2ylYOEuGB3fl1_c/edit
 
 ## Join our Mailing List
 
 This CHAOSS working group is using the general [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss).
+
+## Join our Weekly Calls
+The Risk Working Group meets every other Monday from 11-12 Pacific Time. All are welcome. Our next meeting is April 20, at 9am CDT. We will also meet on April 27, at 9am CDT to get back in our cycle. April 13 was cancelled due to the holiday. 
+
+The videoconference URL is https://zoom.us/j/4998687533.
+
+[You can also read our meeting notes.](https://docs.google.com/document/d/1iqIMpLBwuKSnE0BbQTgbsb9Im87IoN7IUzukochClCw/edit#heading=h.n3rh3l1y6dv7)
 
 ## Background
 
@@ -68,6 +83,9 @@ We're just getting started!
 
 **Core Contributors**
 
+- [Kate Stewart](https://github.com/kestewart)
+- [Matt Snell](https://github.com/Nebrethar)
+- [Kevin Lumbard](https://github.com/klumb)
 
 The criteria for becoming a core contributor is to participate at least once
 per month over a period of 3 months.  Participation could include providing
